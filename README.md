@@ -2,6 +2,7 @@
 <h3 align="center">An aspiring data scientist from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimkalkantzis&label=Profile%20views&color=0e75b6&style=flat" alt="dimkalkantzis" /> </p>
+<meta name="google-site-verification" content="uKoN30WD7bWT9eoK4H_nG2LPWGy3kRknTFl9mS1zEp8" />
 
 - 🔭 I’m currently working on **Diesel Engine Model**
 
@@ -21,5 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimkalkantzis&show_icons=true&locale=en&layout=compact" alt="dimkalkantzis" /></p>
 
-<meta name="google-site-verification" content="uKoN30WD7bWT9eoK4H_nG2LPWGy3kRknTFl9mS1zEp8" />
 
