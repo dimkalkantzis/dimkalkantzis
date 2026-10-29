@@ -1,25 +1,49 @@
-<h1 align="center">Hi 👋, I'm Dimitris Kalkantzis</h1>
-<h3 align="center">An aspiring data scientist from Greece</h3>
+# Hi, I'm Dimitris 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dimkalkantzis&label=Profile%20views&color=0e75b6&style=flat" alt="dimkalkantzis" /> </p>
-<meta name="google-site-verification" content="uKoN30WD7bWT9eoK4H_nG2LPWGy3kRknTFl9mS1zEp8" />
+**AI Associate @ KPMG Greece** · Physicist (NKUA) · Scientific ML enthusiast
 
-- 🔭 I’m currently working on **Diesel Engine Model**
+I work on applied AI and agentic solutions in the Microsoft ecosystem, and I'm interested in where
+**physics meets machine learning** — especially Physics-Informed Neural Networks (PINNs).
 
-- 🌱 I’m currently learning **SQL**
+- 💼 AI Acceleration team, Technology & Transformation @ KPMG Greece
+- 🎓 BSc Physics, National and Kapodistrian University of Athens — thesis on PINNs for diesel engine dynamics
+- 🔬 Interests: Scientific ML, PINNs, LLM agents, applied AI
+- 🏅 Certified: Microsoft AI-901
+- 📚 Preparing for: AZ-900 · AZ-104 · Claude Certified Architect – Foundations
 
-- 📫 How to reach me **dimkalkantzis@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dimitris kalkantzis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitris kalkantzis" height="30" width="40" /></a>
-<a href="https://fb.com/δημήτρης καλκαντζής" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="δημήτρης καλκαντζής" height="30" width="40" /></a>
-<a href="https://instagram.com/dimitris_kalkantzis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimitris_kalkantzis" height="30" width="40" /></a>
-</p>
+### 🔧 Tech stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+**ML / Scientific computing**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimkalkantzis&show_icons=true&locale=en&layout=compact" alt="dimkalkantzis" /></p>
+**AI platforms**
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-6264A7?style=flat&logo=microsoft&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat&logo=powerapps&logoColor=white)
 
+**Other**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
+
+### 📌 Featured work
+
+| Project | What it is |
+|---|---|
+| [**Diesel-Engine-Model**](https://github.com/dimkalkantzis/Diesel-Engine-Model) | BSc thesis — PINNs that learn the state dynamics of a mean-value diesel engine and identify unknown parameters from noisy, sparse data |
+| [**Hands-on-PINNs**](https://github.com/dimkalkantzis/Hands-on-PINNs) | FDM vs PINNs vs improved PINNs on the 1D Burgers' and Navier–Stokes equations |
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitriskalkantzis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dimkalkantzis@gmail.com)
