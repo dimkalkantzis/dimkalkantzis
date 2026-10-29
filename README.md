@@ -25,11 +25,9 @@ I work on applied AI and agentic solutions in the Microsoft ecosystem, and I'm i
 **AI platforms**
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-6264A7?style=flat&logo=microsoft&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat&logo=powerapps&logoColor=white)
 
 **Other**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
